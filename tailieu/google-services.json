@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "836863191151",
+    "project_id": "tracnghiem365-72896",
+    "storage_bucket": "tracnghiem365-72896.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836863191151:android:e25f82c4d59e04f1da459a",
+        "android_client_info": {
+          "package_name": "net.saishin.tracnghiem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836863191151-gdbv4pncom66skia16rh1hnfgpgjfa98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.saishin.tracnghiem",
+            "certificate_hash": "e49a0646c7102a1c8b78ad818d3d5a873ad24ddd"
+          }
+        },
+        {
+          "client_id": "836863191151-bge9rdqmifv7ghmtp9i2s8gk5u4esf2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe-orjlHj-bnYNaYg6RVgcB2jBoGDcJuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836863191151-bge9rdqmifv7ghmtp9i2s8gk5u4esf2l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836863191151-otsvpgv226khrdvuotueh6uejdk2p9g5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.saishin.tracnghiem365"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
